@@ -1,0 +1,276 @@
+body {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  font-family: "Autour One", sans-serif;
+}
+#abc {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+#gac {
+  width: 40%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+#firstsection {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-evenly;
+  margin: 50px;
+  font-size: 20px;
+  margin-bottom: 10px;
+  border-top: solid 1px black;
+
+  width: 70%;
+  margin-left: 250px;
+}
+#a1 {
+  padding-bottom: 1px;
+  margin-bottom: 1px;
+}
+#b1 {
+  padding-bottom: 1px;
+  margin-bottom: 1px;
+}
+#b2 {
+  padding: 1px;
+  margin: 1px;
+}
+#b3 {
+  padding: 1px;
+  margin: 1px;
+}
+#c1 {
+  padding-bottom: 1px;
+  margin-bottom: 1px;
+}
+#c2 {
+  padding: 1px;
+  margin: 1px;
+}
+#c3 {
+  padding: 1px;
+  margin: 1px;
+}
+#tomdiv {
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+}
+#myport {
+  display: flex;
+  justify-content: flex-start;
+  font-size: 30px;
+  margin-bottom: 100px;
+  padding: 5px;
+}
+#Welcome {
+  display: flex;
+  margin: 5px;
+}
+#wo {
+  gap: 5px;
+  margin-bottom: 100px;
+}
+#od {
+  display: flex;
+  justify-content: left;
+  font-size: 40px;
+  margin: 20px;
+}
+#edu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 20px;
+  margin-bottom: 50px;
+}
+#portpic {
+  height: 400px;
+  border-radius: 50px;
+  display: flex;
+}
+#portpic1 {
+  height: 400px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: flex-end;
+}
+#portpic2 {
+  height: 400px;
+  border-radius: 50px;
+  display: flex;
+}
+
+#tod1 {
+  height: 500px;
+  border-radius: 50px;
+  display: flex;
+}
+#adam {
+  height: 500px;
+  border-radius: 50px;
+  display: flex;
+}
+#zulsar {
+  height: 500px;
+  border-radius: 50px;
+  display: flex;
+}
+#huuhduud {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  border-top: solid 20px;
+  border-color: brown;
+  justify-content: center;
+  gap: 10px;
+}
+#monturk {
+  height: 200px;
+}
+#lewis {
+  height: 200px;
+}
+#firstdiv {
+  display: flex;
+  width: 100%;
+  gap: 100px;
+  background-color: azure;
+}
+#mtrush {
+  display: flex;
+  justify-content: baseline;
+  align-items: center;
+}
+
+#sd {
+  display: flex;
+  background-color: bisque;
+  width: 100%;
+  justify-content: space-between;
+}
+#as {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-left: 500px;
+}
+#Airsoft {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  background-color: beige;
+}
+#airsoft1 {
+  display: flex;
+  padding-right: 1000px;
+  justify-content: center;
+  flex-direction: column;
+}
+#a1 {
+  margin-bottom: 3px;
+}
+#a2 {
+  margin-top: 3px;
+}
+
+#h3 {
+  height: 200px;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+#family {
+  align-items: center;
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+  padding-top: 70px;
+}
+#familypic {
+  border-radius: 25%;
+  height: 150px;
+  margin-top: 20px;
+}
+#footer {
+  background-color: antiquewhite;
+  height: 400px;
+  margin-top: 10px;
+}
+#footer1 {
+  display: flex;
+  flex-direction: column;
+}
+#q1 {
+  padding: 2px;
+  margin: 2px;
+  display: flex;
+  justify-content: flex-start;
+}
+#footer2 {
+  display: flex;
+  flex-direction: row;
+  gap: 120px;
+  border-top: solid 1px black;
+}
+#footer3 {
+  display: flex;
+  justify-content: flex-start;
+
+  padding-left: 170px;
+}
+#f1 {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 1px;
+  margin-left: 1px;
+}
+#f2 {
+  border-radius: 5px;
+  width: 400px;
+  background-color: rgb(198, 212, 224);
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 5px;
+}
+#f3 {
+  background-color: aquamarine;
+  border-radius: 10px;
+  width: 150px;
+}
+#f4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+#f5 {
+  display: flex;
+  flex-direction: row;
+
+  padding-left: 1 px;
+  gap: 30px;
+}
+
+#f6 {
+  background-color: azure;
+  padding: 50px;
+  border-radius: 10px;
+  height: 100px;
+  width: 400px;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+#abc {
+  display: flex;
+  flex-direction: row;
+}
